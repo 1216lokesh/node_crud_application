@@ -2,10 +2,10 @@
   "name": "node_crud_app",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app.js"
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
@@ -23,11 +23,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/1216lokesh/curd_application.git"
-  },
-  "keywords": [],
-  "bugs": {
-    "url": "https://github.com/1216lokesh/curd_application/issues"
-  },
-  "homepage": "https://github.com/1216lokesh/curd_application#readme"
+    "url": "git+https://github.com/1216lokesh/node_crud_application.git"
+  }
 }
